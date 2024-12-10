@@ -1,0 +1,1 @@
+Esse arquivo se trata de uma gambiarra para garantir que a pasta seja levada ao repositório.
